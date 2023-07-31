@@ -35,6 +35,10 @@ export const sidebar: DefaultTheme.Sidebar = {
           text: "路由配置",
           link: "/column/vue/002_vue3配置路由",
         },
+        {
+          text: "引入Pinia",
+          link: "/column/vue/003_Vue3Pinia搭建",
+        },
       ],
     },
   ],

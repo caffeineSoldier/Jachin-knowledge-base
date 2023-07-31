@@ -47,7 +47,9 @@ root.render(
 yarn add @craco/craco
 ```
 
+::: tip
 `craco`是一个第三方插件，将 React 默认启动命令`react-scripts`替换为`craco`来启动项目，用来加载更多的环境，比如 less
+:::
 
 #### 配置 craco（package.json）
 
